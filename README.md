@@ -175,6 +175,7 @@ ANDROID-MANIFEST.XML
 ```
 
 ## OUTPUT
+![image](https://github.com/21005291/contentprovider/assets/112933167/1be9a7f1-a394-4a77-8571-048a081714a2)
 
 
 
